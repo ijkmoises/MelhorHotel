@@ -49,5 +49,7 @@ class MainActivity : AppCompatActivity(),
         val melhorHotel = buscaMelhorHotel.calcular()
 
         tvMelhorHotel.text = melhorHotel?.nome
+
+        hospede.reset()
     }
 }

@@ -21,4 +21,9 @@ class Hospede {
     fun isCheckInSelected(): Boolean {
         return dataEntrada.time > 0
     }
+
+    fun reset(){
+        dataEntrada = Date(0)
+        dataSaida = Date(0)
+    }
 }
