@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Melhor Hotel</string>
+    <string name="select_check_in">Data de entrada</string>
+    <string name="select_check_out">Data de Saída</string>
+    <string name="reward_guest">Cliente Fidelidade</string>
+    <string name="bt_fetch_best_hotel">Buscar o melhor hotel</string>
+</resources>
